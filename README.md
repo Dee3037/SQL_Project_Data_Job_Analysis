@@ -70,7 +70,7 @@ LIMIT 10;
 
 - **Posting dates:** The jobs were posted throughout 2023, showing strong ongoing demand for remote data analyst talent.
 
- ![top paying roles](assets\1_top_paying_roles.png)
+ ![top paying roles](assets/1_top_paying_roles.png)
 *The chart above, is generated with guidance from ChatGPT, visually compares the top 10 remote data analyst jobs in 2023 by salary and company*
 
 
@@ -113,7 +113,7 @@ ORDER BY
 - Other key skills include R, Snowflake, Excel, Pandas, Bitbucket and Go that show varying degrees of demand.
 
 
-![Top Paying Job Skills](assets\2_top_paying_job_skills.png)
+![Top Paying Job Skills](assets/2_top_paying_job_skills.png)
 
 *The bar graph above, generated with guidance from ChatGPT, shows the most common skills required for the highest-paying remote data analyst jobs in 2023.*
 
